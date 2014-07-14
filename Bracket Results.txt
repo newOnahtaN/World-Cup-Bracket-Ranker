@@ -1,0 +1,55 @@
+Rank: 1  Name: Doug Nicholson            Bracket Name: It's Gonna Get Messi                     Score: 824.0           # of Matches not recorded due to misentry: 0 
+Rank: 2  Name: Ashley Napier             Bracket Name:                                          Score: 801.0           # of Matches not recorded due to misentry: 0 
+Rank: 3  Name: Scarlet J.                Bracket Name: Joga Bonito                              Score: 794.0           # of Matches not recorded due to misentry: 0 
+Rank: 4  Name: Alena Stern               Bracket Name: Nate Silver made me do it                Score: 792.0           # of Matches not recorded due to misentry: 0 
+Rank: 5  Name: Andrew Scott              Bracket Name: Kitties in the City                      Score: 757.0           # of Matches not recorded due to misentry: 0 
+Rank: 6  Name: Catie                     Bracket Name: Crowley                                  Score: 746.1           # of Matches not recorded due to misentry: 0 
+Rank: 7  Name: Henry Mark                Bracket Name: LFC-CRS                                  Score: 746.0           # of Matches not recorded due to misentry: 0 
+Rank: 8  Name: Dom Margiotta             Bracket Name: The Godfather of All Brackets            Score: 715.0           # of Matches not recorded due to misentry: 0 
+Rank: 9  Name: Austin Trotta             Bracket Name: Unloyal Codes                            Score: 698.0           # of Matches not recorded due to misentry: 0 
+Rank: 10 Name: Prabesh Basnet            Bracket Name: HUEHUEHUE                                Score: 680.0           # of Matches not recorded due to misentry: 0 
+Rank: 11 Name: Faith                     Bracket Name:                                          Score: 671.0           # of Matches not recorded due to misentry: 0 
+Rank: 12 Name: Jacob Sprang              Bracket Name: Apathy                                   Score: 670.0           # of Matches not recorded due to misentry: 0 
+Rank: 13 Name: Nairuti Shastry           Bracket Name: Second Attempt at #YOLO                  Score: 666.0           # of Matches not recorded due to misentry: 0 
+Rank: 14 Name: Lirsen Myrtaj             Bracket Name: George W Bush                            Score: 665.0           # of Matches not recorded due to misentry: 0 
+Rank: 15 Name: Ben Layton                Bracket Name: #youonlyyoloonce                         Score: 661.0           # of Matches not recorded due to misentry: 0 
+Rank: 16 Name: James Willard             Bracket Name: James does sportz                        Score: 660.0           # of Matches not recorded due to misentry: 0 
+Rank: 17 Name: Lauren Chunias            Bracket Name: #argentinaordie                          Score: 649.0           # of Matches not recorded due to misentry: 0 
+Rank: 18 Name: Juan De Angulo            Bracket Name: The Colombian's Bracket                  Score: 648.0           # of Matches not recorded due to misentry: 4 
+Rank: 19 Name: Michael Campbell          Bracket Name: Albiceleste, siempre con vos             Score: 642.0           # of Matches not recorded due to misentry: 0 
+Rank: 20 Name: Troy Shepley              Bracket Name: Italian Stallions                        Score: 641.0           # of Matches not recorded due to misentry: 0 
+Rank: 21 Name: Mandy Badamkhand          Bracket Name: Albiceleste                              Score: 638.0           # of Matches not recorded due to misentry: 0 
+Rank: 22 Name: Lauren Su                 Bracket Name: Bracket Lars                             Score: 631.0           # of Matches not recorded due to misentry: 0 
+Rank: 23 Name: Rachel Trichler           Bracket Name: The Golden Bracket                       Score: 624.0           # of Matches not recorded due to misentry: 0 
+Rank: 24 Name: Stephanie Dimos           Bracket Name: SMD                                      Score: 611.0           # of Matches not recorded due to misentry: 0 
+Rank: 25 Name: Dominic Scerbo            Bracket Name: Forza Azzurri!                           Score: 605.0           # of Matches not recorded due to misentry: 0 
+Rank: 26 Name: Zachary Gore              Bracket Name: Teenage Mutant Ninja Skrtels             Score: 603.0           # of Matches not recorded due to misentry: 0 
+Rank: 27 Name: Emily McLenigan           Bracket Name: Mediocre                                 Score: 560.0           # of Matches not recorded due to misentry: 0 
+Rank: 28 Name: David Trichler (real)     Bracket Name: Kickerbockers                            Score: 548.0           # of Matches not recorded due to misentry: 5 
+Rank: 29 Name: Amy Green                 Bracket Name: I accidentally hit submit too early on my first one--don't count it) Score: 540.0           # of Matches not recorded due to misentry: 0 
+Rank: 30 Name: Emily Koerner             Bracket Name: EAK                                      Score: 523.0           # of Matches not recorded due to misentry: 0 
+Rank: 31 Name: Carrie Dolan              Bracket Name: Carrie Bracket                           Score: 508.0           # of Matches not recorded due to misentry: 0 
+Rank: 32 Name: Alex de Gala              Bracket Name: Die Deutsche Mannschaft                  Score: 501.0           # of Matches not recorded due to misentry: 0 
+Rank: 33 Name: Harsh Desai               Bracket Name: The Hash Browns                          Score: 484.0           # of Matches not recorded due to misentry: 6 
+Rank: 34 Name: Michael Silvidi           Bracket Name: il Cavallo Scuro                         Score: 471.0           # of Matches not recorded due to misentry: 7 
+Rank: 35 Name: Kelvin Abrokwa-Johnson    Bracket Name: The Nakahata Experience                  Score: 451.0           # of Matches not recorded due to misentry: 0 
+Rank: 36 Name: Gabriel                   Bracket Name: Gabe                                     Score: 444.0           # of Matches not recorded due to misentry: 3 
+Rank: 37 Name: Alina Lam                 Bracket Name: Siesta Fiesta                            Score: 415.0           # of Matches not recorded due to misentry: 0 
+Rank: 38 Name: Mike Tierney              Bracket Name: USA Uber Alles                           Score: 379.0           # of Matches not recorded due to misentry: 4 
+Rank: 39 Name: Will Nelson               Bracket Name: I totally know what I'm doing.           Score: 372.0           # of Matches not recorded due to misentry: 13
+Rank: 40 Name: Claire Etheridge          Bracket Name: The Most Victorious                      Score: 365.0           # of Matches not recorded due to misentry: 0 
+Rank: 41 Name: TUFF Team!                Bracket Name: CA$HMONEY                                Score: 351.0           # of Matches not recorded due to misentry: 0 
+Rank: 42 Name: Ashley Kendall            Bracket Name: Lomo saltado                             Score: 223.0           # of Matches not recorded due to misentry: 3 
+Rank: 43 Name: Donald Thibeau            Bracket Name: The Alphabet                             Score: 209.0           # of Matches not recorded due to misentry: 0 
+Rank: 44 Name: Denise Bonsu              Bracket Name: Ghana shall win!                         Score: 204.0           # of Matches not recorded due to misentry: 7 
+Rank: 45 Name: Warren Kirkwood           Bracket Name: Ooh kill em                              Score: 203.0           # of Matches not recorded due to misentry: 5 
+Rank: 46 Name: Junrong Zhu               Bracket Name: Joana                                    Score: 118.0           # of Matches not recorded due to misentry: 30
+Rank: 47 Name: Rachel Azafrani           Bracket Name: USA. USA. (unfortunately not this time)  Score: 79.1            # of Matches not recorded due to misentry: 24
+Rank: 48 Name: Meghan                    Bracket Name:                                          Score: 79.0            # of Matches not recorded due to misentry: 46
+Rank: 49 Name: Caro Bergeron             Bracket Name: We Are One (Ole Ola)                     Score: 34.0            # of Matches not recorded due to misentry: 20
+Rank: 50 Name: Patrick Leisure           Bracket Name: Patrick's Bracket                        Score: 16.0            # of Matches not recorded due to misentry: 24
+Rank: 51 Name: Ryan Powers               Bracket Name: USA                                      Score: 0.1             # of Matches not recorded due to misentry: 64
+Rank: 52 Name: Daniel Lantz              Bracket Name: $$$                                      Score: 0               # of Matches not recorded due to misentry: 64
+Rank: 53 Name: Kristin                   Bracket Name:                                          Score: -15.0           # of Matches not recorded due to misentry: 24
+Rank: 54 Name: Kristin                   Bracket Name:                                          Score: -41.0           # of Matches not recorded due to misentry: 60
+Rank: 55 Name: Collin Henson             Bracket Name: Mynynndawg Mwynfawr                      Score: -477.0          # of Matches not recorded due to misentry: 0 
