@@ -52,4 +52,4 @@ Rank: 51 Name: Ryan Powers               Bracket Name: USA                      
 Rank: 52 Name: Daniel Lantz              Bracket Name: $$$                                      Score: 0               # of Matches not recorded due to misentry: 64
 Rank: 53 Name: Kristin                   Bracket Name:                                          Score: -15.0           # of Matches not recorded due to misentry: 24
 Rank: 54 Name: Kristin                   Bracket Name:                                          Score: -41.0           # of Matches not recorded due to misentry: 60
-Rank: 55 Name: Collin Henson             Bracket Name: Mynynndawg Mwynfawr                      Score: -477.0          # of Matches not recorded due to misentry: 0 
+Rank: 55 Name: Collin Henson             Bracket Name: Mynynndawg Mwynfawr                      Score: -477.0          # of Matches not recorded due to misentry:0 
